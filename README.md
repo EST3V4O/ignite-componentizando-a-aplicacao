@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Desafio proposto pela [Rocketseat](https://www.rocketseat.com.br/) na ReactJs do Ignite, para estudo sobre componentizar um aplicação
+Desafio proposto pela [Rocketseat](https://www.rocketseat.com.br/) na trilha ReactJs do Ignite, para estudo sobre componentizar um aplicação
 
 ## ✨ Tecnologias
 
